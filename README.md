@@ -43,3 +43,16 @@ public function registerBundles()
 }
 ```
 
+## Commands
+
+### twig:list:functions
+
+Lists Twig functions with parameters and extensions
+
+### twig:list:filters
+
+Lists Twig filters with parameters and extensions
+
+### twig:list:tests
+
+Lists Twig tests with parameters and extensions
