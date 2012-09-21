@@ -1,0 +1,20 @@
+{
+    "name": "alb/twig-reflection-bundle",
+    "description": "Displays what's in Twig (functions, filters, etc)",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Arnaud Le Blanc",
+            "email": "arnaud.lb@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Alb\\TwigReflectionBundle": ""
+        }
+    },
+    "target-dir": "Alb/TwigReflectionBundle"
+}
