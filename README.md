@@ -21,10 +21,8 @@ Twig Relfection bundle provides commands for listing functions, filters, tests.
 ## Install
 
 ```
-$ composer require alb/twig-reflection-bundle
+$ composer require alb/twig-reflection-bundle:*
 ```
-
-When asked for a version constraint, type `*` and hit enter.
 
 ## Enable the bundle
 
