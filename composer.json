@@ -16,5 +16,6 @@
             "Alb\\TwigReflectionBundle": ""
         }
     },
-    "target-dir": "Alb/TwigReflectionBundle"
+    "target-dir": "Alb/TwigReflectionBundle",
+    "license": "MIT"
 }
